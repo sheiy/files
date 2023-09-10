@@ -1,2 +1,5 @@
+#!name=OWN SG Module
+#!desc=OWN SG Module
+
 [Rule]
 IP-CIDR,107.182.31.96/32,DIRECT
