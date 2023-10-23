@@ -3,3 +3,6 @@
 
 [Rule]
 IP-CIDR,107.182.31.96/32,DIRECT
+
+[Proxy]
+🇺🇸 美国 SELF [01] = trojan, ultra.ownw.site, 1443, password=cqyymx123@U, udp-relay=true, skip-cert-verify=true, no-error-alert=true
